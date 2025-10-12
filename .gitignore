@@ -1,0 +1,19 @@
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore environment variables / secrets
+.env
+
+# Ignore VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
