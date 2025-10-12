@@ -1,2 +1,5 @@
-This is a forex bot that predict the next one hour candle based on 1h dataset from 2009 till now. Feature extraction of this forex is absed of all the indicators like macd, rsi, ichimoku and a etc. it have 51.56 
-accuarcy and with good risk managment it can be very profitable but it has lot to do. it needs feature engineering and it should be change that can be used in meta trader application or trading view platform.
+This is a Forex prediction bot designed to forecast the next one-hour candle using a 1H dataset from 2009 up to the present. The feature extraction is based on various technical indicators such as MACD, RSI, Ichimoku, and more.
+
+Currently, the model achieves an accuracy of 51.56%. With proper risk management, it has the potential to become highly profitable. However, there’s still a lot of work to do.
+
+The next steps include advanced feature engineering to improve accuracy and adapting the system so it can be integrated into MetaTrader or TradingView platforms
